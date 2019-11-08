@@ -1,2 +1,3 @@
 # Data-Structures
-Code for data-structures
+Code for Data-Structures!
+Data-Structures are most important for job-interviews an competitive coding.
